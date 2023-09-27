@@ -1,7 +1,7 @@
  <div>
    <a href="https://github.com/Matheus-Hardyy">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Hardyy&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Hardyy&layout=compact&langs_count=6&theme=onedark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Hardyy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Hardyy&layout=compact&langs_count=6&theme=merko"/>
 </div>
     
 <div style="display: inline_block"><br>
